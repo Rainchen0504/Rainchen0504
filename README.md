@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
     <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=Less&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
     
     <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
     <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
