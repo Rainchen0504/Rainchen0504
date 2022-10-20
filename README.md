@@ -6,12 +6,12 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rainchen0504" /> </div>
 
-<span > 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
-  <img src="https://img.shields.io/badge/-Vue-1572B6?style=flat-square&logo=Vue" /> 
-</span>
+<div>
+  <div>
+    <p>前端</p>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  </div>
+</div>
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Rainchen0504" /> </div>
 
