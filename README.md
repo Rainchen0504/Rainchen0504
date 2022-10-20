@@ -54,11 +54,6 @@
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainchen0504&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Activity Stats
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mlldxe)](https://github.com/Rainchen0504/github-readme-activity-graph)
-
-#### Punch information
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rainchen0504&theme=default)](https://git.io/streak-stats)
 
 
 
