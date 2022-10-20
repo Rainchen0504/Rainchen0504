@@ -1,19 +1,26 @@
+## Hello, I'm chenchenchen🐮
+
+#### GitHub信息统计
 <div align="left"> 
   <img src="https://metrics.lecoq.io/Rainchen0504?template=classic&config.timezone=Asia%2FShenzhen">
 </div>
 
+#### GitHub 统计卡片
 <div align="left"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rainchen0504&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 </div>
 
+#### GitHub 使用语言统计
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainchen0504&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
 
+#### GitHub 资料奖杯
 <div align="left"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Rainchen0504" /> 
 </div>
 
+#### 技术栈
 <div>
   <div>
     <p>前端</p>
@@ -21,18 +28,14 @@
   </div>
 </div>
 
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Rainchen0504" /> </div>
-
+#### GitHub 活动统计图
 <div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=Rainchen0504&theme=xcode" /> </div>
 
+#### GitHub 连续打卡
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rainchen0504" /> </div>
 
 
-<p>分界线哈哈哈哈</p>
-
-
-
-#### Platform&Tools
+#### 技术栈
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/iPhone-13-pink?style=flat-square&logo=apple&logoColor=ffffff)](https://www.iphone.com/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -48,7 +51,7 @@
 
 
 
-#### Top Langs
+#### 使用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainchen0504&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 
