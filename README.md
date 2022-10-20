@@ -63,7 +63,7 @@
 
 #### GitHub 资料奖杯
 <div align="left"> 
-  <img src="ttps://github-profile-trophy.vercel.app/?username=Rainchen0504" /> 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Rainchen0504)](https://github.com/Rainchen0504/github-profile-trophy)
 </div>
 
 
