@@ -37,13 +37,10 @@
   </div>
 </div>
 
-
 <hr/>
 
 #### 使用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainchen0504&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 #### GitHub信息统计
 <div align="left"> 
@@ -69,10 +66,6 @@
 
 #### GitHub 连续打卡
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rainchen0504" /> </div>
-
-
-
-
 
 <!--
 **mlldxe/mlldxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
