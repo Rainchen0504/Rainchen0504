@@ -48,8 +48,6 @@
 
 <img src="https://stats.justsong.cn/api/github?username=Rainchen0504">
 
-#### Metrics Stats
-![Metrics](https://metrics.lecoq.io/mlldxe?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainchen0504&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
