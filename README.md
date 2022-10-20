@@ -16,11 +16,10 @@
   </div>
   <div>
     <p>后端</p>
-    <img src="https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white">
+    <img src="https://img.shields.io/badge/npm-red.svg?style=for-the-badge&logo=npm">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-     <img src="https://img.shields.io/badge/npm-black.svg?style=for-the-badge&logo=webpack">
   </div>
 </div>
 
