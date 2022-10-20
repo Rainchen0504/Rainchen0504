@@ -42,30 +42,27 @@
 #### 使用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainchen0504&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-#### GitHub信息统计
+#### 信息统计
 <div align="left"> 
   <img src="https://metrics.lecoq.io/Rainchen0504?template=classic&config.timezone=Asia%2FShenzhen">
 </div>
 
-#### GitHub 统计卡片
+#### 统计卡片
 <div align="left"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rainchen0504&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 </div>
 
-#### GitHub 使用语言统计
+#### 使用语言统计
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainchen0504&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
 
-#### GitHub 资料奖杯
+#### 资料奖杯
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rainchen0504&theme=onedark)](https://github.com/Rainchen0504/github-profile-trophy)
 
 
-#### GitHub 活动统计图
+#### 活动统计图
 <div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=Rainchen0504&theme=xcode" /> </div>
-
-#### GitHub 连续打卡
-<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rainchen0504" /> </div>
 
 <!--
 **mlldxe/mlldxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
