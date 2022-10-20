@@ -62,9 +62,8 @@
 </div>
 
 #### GitHub 资料奖杯
-<div align="left"> 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Rainchen0504)](https://github.com/Rainchen0504/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rainchen0504)](https://github.com/Rainchen0504/github-profile-trophy)
+
 
 
 
