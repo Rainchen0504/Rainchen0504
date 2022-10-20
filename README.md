@@ -1,6 +1,16 @@
-## Hello, I'm chenchenchen🐮
+# Hello, I'm chenchenchen🐮
 
 #### 技术栈
+<div>
+  <div>
+    <p>前端</p>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  </div>
+</div>
+
+
+### 技术栈
+
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/iPhone-13-pink?style=flat-square&logo=apple&logoColor=ffffff)](https://www.iphone.com/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -41,13 +51,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rainchen0504" /> 
 </div>
 
-#### 技术栈
-<div>
-  <div>
-    <p>前端</p>
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  </div>
-</div>
+
 
 #### GitHub 活动统计图
 <div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=Rainchen0504&theme=xcode" /> </div>
