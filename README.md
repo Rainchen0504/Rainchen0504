@@ -1,5 +1,7 @@
 # Hello, I'm chenchenchen🐮
 
+<hr/>
+
 #### 技术栈
 <div>
   <div>
@@ -16,7 +18,7 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
   </div>
   <div>
-    <hr/>
+    -----------------------------------------------------------------------------------------------------
   </div>
   <div>
     <p>后端:</p>
@@ -29,6 +31,8 @@
   </div>
 </div>
 
+
+<hr/>
 
 #### 使用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainchen0504&layout=compact&langs_count=8&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
