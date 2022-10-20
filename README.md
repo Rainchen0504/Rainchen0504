@@ -46,7 +46,6 @@
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
-<img src="https://stats.justsong.cn/api/github?username=Rainchen0504">
 
 
 #### Top Langs
