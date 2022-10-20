@@ -4,11 +4,21 @@
 <div>
   <div>
     <p>前端</p>
-    <img src="https://img.shields.io/badge/HTML-white.svg?style=for-the-badge&logo=html5&size=50">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+    <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=Less&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue&logoColor=white">
+    
+    <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
+    <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
+    <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
+    <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
+    <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
+    <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white">
+    
+    
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
