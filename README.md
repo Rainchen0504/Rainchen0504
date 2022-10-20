@@ -32,7 +32,6 @@
 
 
 
-![sumy7](https://komarev.com/ghpvc/?username=mlldxe) 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/iPhone-13-pink?style=flat-square&logo=apple&logoColor=ffffff)](https://www.iphone.com/)
@@ -46,8 +45,6 @@
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-#### Github Stats
-[!*info*(https://github-readme-stats.vercel.app/api?username=Rainchen0504&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://stats.justsong.cn/api/github?username=Rainchen0504">
 
