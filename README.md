@@ -53,11 +53,6 @@
 
 <hr/>
 
-#### 活动统计图
-<div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=Rainchen0504&theme=xcode" /> </div>
-
-<hr/>
-
 <!--
 **mlldxe/mlldxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
